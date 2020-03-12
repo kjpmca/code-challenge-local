@@ -1,0 +1,11 @@
+[{
+	"referral_code": "S501222",
+	"name": "Prakash",
+	"email": "kjpmca@gmail.com",
+	"phone": "123456789"
+}, {
+	"referral_code": "S608222",
+	"name": "Suresh",
+	"email": "suresh1235@gmail.com",
+	"phone": "123456789"
+}]
